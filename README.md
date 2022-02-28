@@ -11,7 +11,7 @@ Mogo Finance Technology Inc (herein referred to as Mogo)
 
 ## Overview and Origin
 
-Mogo Financial Technology Inc, hereafter referred to as Mogo, was founded in 2003 by David Marshall Feller in Vancouver, British Columbia. The company offers a FinTech lending, credit, and other banking solutions to customers that are streamlined to save the customer time and money in comparison to traditional banks. Mogo has raised $263.8M USD through 8 financing rounds ranging from a venture round to an initial public stock offering.
+Mogo Financial Technology Inc, hereafter referred to as Mogo, was founded in 2003 by David Marshall Feller in Vancouver, British Columbia. The company offers a FinTech lending, credit, and other banking solutions to customers that are streamlined to save the customer time and money in comparison to traditional financial instutions (FIs). Mogo has raised $263.8M USD through 8 financing rounds ranging from a venture round to an initial public stock offering.
 
 ## Business Activities:
 
@@ -42,18 +42,13 @@ Mogo boasts utilizing a user-friendly chat bot experience that asks you simple q
 
 Mogo has been able to raise $263M USD, acquire 1.8 million customers, acquire four other FinTech companies (Fortification Capital, Moka, Carta Worldwide, and Difference Capital) and has been able to disrupt the Canadian Financial Industry significantly.
 
-Because Mogo is looking to acquire new users and increase its own market share, the company is looking to offer the lowest cost product to its customer. Therefore, Mogo expects a customer who applies for a Mogo credit card to then use other Mogo lending, mortgage, trading, and cryptocurrency products. Therefore, unlike most financial instutions whose key performance metrics are profit per share, share price, and growth of their cusotmer base, Mogo is almost entire focused on it's acquisition of new users and developing marketing methodologies / products to help them acheive that goal.
+Because Mogo is looking to acquire new users and increase its own market share, the company is looking to offer the lowest cost product to its customer. Therefore, Mogo expects a customer who applies for a Mogo credit card to then use other Mogo lending, mortgage, trading, and cryptocurrency products. Therefore, unlike most financial instutions whose key performance metrics are profit per share, share price, and growth of their cusotmer base, Mogo is almost entirely focused on it's acquisition of new users and developing marketing methodologies / products to help them acheive that goal.
 
-
-
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-* How is your company performing relative to competitors in the same domain?
+Mogo's rapid user acquisition amongst the traditional financial instutions in Canada such as RBC and TD shows promise that Mogo will continue to gain market share in Canada's financial system. Other "Neo Banks", banks that operate entirely online and do not have a physical store front, are also gaining vast amounts of users as well. Such banks are Neo Financial, headquartered in Calgary who recently acquired 2 million card holders via a partnership with Hudson's Bay, Koho who is based in Toronto that now has 500,000 users, and FIs that are transitioning to a neo bank format such as Wealth Simple and Tangerine. In terms of market share and userbase however, Mogo is still one of the largest neo banks.
 
 ## Recommendations
 
+It is recommended that Mogo continues to offer the products that it currently does in crypto, lending, mortgage, and other domains. To improve its competitive advantage amongst other neo banks and traditional FIs, Mogo must develop partnerships with other Canadian businesses that have vast and dedicated customer bases. By offering an exclusive discount to those customers only, Mogo can build a brand reputation and recognition with a majority of Canadians quickly. Such a partnership could be working with Tim Hortons by allowing customers with a Mogo card to pay in Crypto currencies or to offer existing Tim Hortons customers a Tim Hortons and Mogo Financial credit card that reduce the cost of all Tim Hortons menu items by $1. Mogo Financial would then pay Tim Hortons the $1 saved and acquire a new user for that amount. Tim Hortons would also gain customer loyalty as their products are more price competitive. Mogo and Tim Hortons can collect customer data from the loyalty credit card and use it to drive more sales in the future. 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
 * Why do you think that offering this product or service would benefit the company?
